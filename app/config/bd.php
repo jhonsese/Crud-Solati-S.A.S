@@ -8,7 +8,7 @@
 class Conection extends PDO {
 
   private $host = 'localhost';
-  private $database = 'solati'; // Nombre de la base de datos
+  private $database = 'solatisas'; // Nombre de la base de datos
   private $username = 'postgres'; // Nombre predeterminado en PostgreSQL
   private $pass = ''; // Contraseña establecida
   private $port = '5432'; // Numero del puerto predeterminado

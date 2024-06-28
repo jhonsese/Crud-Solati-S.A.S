@@ -7,3 +7,5 @@ CREATE TABLE usuarios (
   nombre VARCHAR(50) NOT NULL,
   edad VARCHAR(3) NOT NULL
 );
+
+INSERT INTO usuarios (nombre, edad) VALUES ('Jhoan Sebastian', 18);
